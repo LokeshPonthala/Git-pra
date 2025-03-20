@@ -1,0 +1,1 @@
+print(Oh Namah sivaya + Shiva)
